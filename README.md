@@ -2,6 +2,6 @@
 ### Trabalho Prático Final - # SWII6
 ### Autores: Caio Costa Cordeiro
 ## Video da Aplicação Desktop
-![video1](video1.gif)
+![video1](Records/video1.gif)
 ## Video da Aplicação Web
-![video2](video2.gif)
+![video2](Records/video2.gif)
